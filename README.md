@@ -1,9 +1,18 @@
-This is a time tracking application built using [Next.js](https://nextjs.org/), [Prisma](https://www.prisma.io/), [Shadcn](https://ui.shadcn.com/), [Postgres](https://www.postgresql.org/), [Lucia Auth](https://lucia-auth.com/) and [Docker](https://www.docker.com/)
+## Description
+Basic full stack application playground to try out new Shadcn charts and Lucia auth for authentication
+
+## Tech Stack
+- [Next.js](https://nextjs.org/)
+- [Prisma](https://www.prisma.io/)
+- [Shadcn](https://ui.shadcn.com/)
+- [Postgres](https://www.postgresql.org/)
+- [Lucia Auth](https://lucia-auth.com/)
+- [Docker](https://www.docker.com/)
 
 Screenshots of the application
-![user-table](https://github.com/user-attachments/assets/a19b0fb5-2664-4a13-af20-e66e5f912f0f)
-![charts](https://github.com/user-attachments/assets/43bb63ee-c0a0-448a-bd62-d6b4cee196fd)
-
+![Screenshot 2024-08-04 at 1 00 46 PM](https://github.com/user-attachments/assets/7b73384e-b233-4f30-8e24-061083f2f5a2)
+![Screenshot 2024-08-04 at 1 02 28 PM](https://github.com/user-attachments/assets/259e6f35-1759-439e-8e16-0e4c693b577c)
+![Screenshot 2024-08-04 at 1 02 43 PM](https://github.com/user-attachments/assets/4258ff87-f6fd-4092-b3cf-3b4e920ce9d8)
 
 ## Pre-requisites
 
