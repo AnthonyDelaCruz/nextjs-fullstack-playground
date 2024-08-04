@@ -28,8 +28,8 @@ services:
     ports:
       - 5432:5432
     volumes:
-      - tm-coding-exam-db:/var/lib/postgresql/data
+      - playground-db:/var/lib/postgresql/data
     env_file:
       - .env
 volumes:
-  tm-coding-exam-db:
+  playground-db:
