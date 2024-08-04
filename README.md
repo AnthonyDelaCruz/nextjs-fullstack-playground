@@ -1,5 +1,3 @@
-# Thinking Machines Coding Exam Entry
-
 This is a time tracking application built using [Next.js](https://nextjs.org/), [Prisma](https://www.prisma.io/), [Shadcn](https://ui.shadcn.com/), [Postgres](https://www.postgresql.org/), [Lucia Auth](https://lucia-auth.com/) and [Docker](https://www.docker.com/)
 
 Screenshots of the application
